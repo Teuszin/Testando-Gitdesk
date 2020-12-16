@@ -1,2 +1,4 @@
 # Testando-Gitdesk
- aulas do guanabara
+Vídeoaulas do Guanabara
+
+Aulas sobre Git e GitHub
